@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRzOrTCl41pASsk2DzdZgSaZLD6lBX4JdTiyhI4vLqbRvYJ2Yu5an0vGilfcYdsx6osgYuEEehdq7aJG1nyyvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manab\\source\\repos\\SimpleNotificationService\\SimpleNotificationService\\SimpleNotificationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manab\\.nuget\\packages\\awssdk.core\\3.7.107.3\\awssdk.core.3.7.107.3.nupkg.sha512",
+    "C:\\Users\\manab\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.101.78\\awssdk.simplenotificationservice.3.7.101.78.nupkg.sha512",
+    "C:\\Users\\manab\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\manab\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\manab\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\manab\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\manab\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\manab\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
